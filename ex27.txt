@@ -1,0 +1,22 @@
+Not false = true
+Not true = false 
+
+true or false = true
+true or true = true 
+false or true = true 
+false or false = false 
+
+true and false = false
+true and true = true
+false and true = false
+false and false = false 
+
+not(true or false) = false 
+not(true or true) = false 
+not(false or true) = false
+not(false or false) = true 
+
+not(true and false) = true
+not(true and true) = false
+not(false and true) = true
+not(false and false) = true 
